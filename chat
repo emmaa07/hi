@@ -11,4 +11,27 @@ player.say(text);
 
 text += " a really long jump";
 
-player.say(text); 
+player.say(text);
+
+// here we have created a variable called num
+let num;
+
+num = 24;
+
+// multiply by 20
+num = num * 20;
+// divide by 40
+num = num / 40;
+// add 100
+num = num + 100;
+// minus 6520
+num = num - 6520;
+player.say("the ending number is: " + num);
+
+if(num > 0){
+    player.say("the number is positive");
+} else if (num == 0) {
+    player.say("the number is zero");
+} else {
+    player.say ("the number is negative");
+}
