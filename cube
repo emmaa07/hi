@@ -1,0 +1,282 @@
+player.say ("Placing Stone");
+//what action  type     L/R U/D F/B
+blocks.place(BEDROCK, pos(0, 0, 1))
+blocks.place(BEDROCK, pos(0, 0, 2))
+blocks.place(BEDROCK, pos(0, 0, 3))
+blocks.place(BEDROCK, pos(0, 0, 4))
+blocks.place(BEDROCK, pos(0, 0, 5))
+
+blocks.place(BEDROCK, pos(1, 0, 1))
+blocks.place(BEDROCK, pos(1, 0, 2))
+blocks.place(BEDROCK, pos(1, 0, 3))
+blocks.place(BEDROCK, pos(1, 0, 4))
+blocks.place(BEDROCK, pos(1, 0, 5))
+
+blocks.place(BEDROCK, pos(2, 0, 1))
+blocks.place(BEDROCK, pos(2, 0, 1))
+blocks.place(BEDROCK, pos(2, 0, 1))
+blocks.place(BEDROCK, pos(2, 0, 4))
+blocks.place(BEDROCK, pos(2, 0, 5))
+
+blocks.place(BEDROCK, pos(3, 0, 1))
+blocks.place(BEDROCK, pos(3, 0, 2))
+blocks.place(BEDROCK, pos(3, 0, 3))
+blocks.place(BEDROCK, pos(3, 0, 4))
+blocks.place(BEDROCK, pos(3, 0, 5))
+
+blocks.place(BEDROCK, pos(4, 0, 1))
+blocks.place(BEDROCK, pos(4, 0, 2))
+blocks.place(BEDROCK, pos(4, 0, 3))
+blocks.place(BEDROCK, pos(4, 0, 4))
+blocks.place(BEDROCK, pos(4, 0, 5))
+
+blocks.place(BEDROCK, pos(0, 1, 1))
+blocks.place(BEDROCK, pos(0, 1, 2))
+blocks.place(BEDROCK, pos(0, 1, 3))
+blocks.place(BEDROCK, pos(0, 1, 4))
+blocks.place(BEDROCK, pos(0, 1, 5))
+
+blocks.place(BEDROCK, pos(1, 1, 1))
+blocks.place(BEDROCK, pos(1, 1, 2))
+blocks.place(BEDROCK, pos(1, 1, 3))
+blocks.place(BEDROCK, pos(1, 1, 4))
+blocks.place(BEDROCK, pos(1, 1, 5))
+
+blocks.place(BEDROCK, pos(2, 1, 1))
+blocks.place(BEDROCK, pos(2, 1, 2))
+blocks.place(BEDROCK, pos(2, 1, 3))
+blocks.place(BEDROCK, pos(2, 1, 4))
+blocks.place(BEDROCK, pos(2, 1, 5))
+
+blocks.place(BEDROCK, pos(3, 1, 1))
+blocks.place(BEDROCK, pos(3, 1, 2))
+blocks.place(BEDROCK, pos(3, 1, 3))
+blocks.place(BEDROCK, pos(3, 1, 4))
+blocks.place(BEDROCK, pos(3, 1, 5))
+
+blocks.place(BEDROCK, pos(4, 1, 1))
+blocks.place(BEDROCK, pos(4, 1, 2))
+blocks.place(BEDROCK, pos(4, 1, 3))
+blocks.place(BEDROCK, pos(4, 1, 4))
+blocks.place(BEDROCK, pos(4, 1, 5))
+
+blocks.place(BEDROCK, pos(0, 2, 1))
+blocks.place(BEDROCK, pos(0, 2, 2))
+blocks.place(BEDROCK, pos(0, 2, 3))
+blocks.place(BEDROCK, pos(0, 2, 4))
+blocks.place(BEDROCK, pos(0, 2, 5))
+
+blocks.place(BEDROCK, pos(1, 2, 1))
+blocks.place(BEDROCK, pos(1, 2, 2))
+blocks.place(BEDROCK, pos(1, 2, 3))
+blocks.place(BEDROCK, pos(1, 2, 4))
+blocks.place(BEDROCK, pos(1, 2, 5))
+
+blocks.place(BEDROCK, pos(2, 2, 1))
+blocks.place(BEDROCK, pos(2, 2, 2))
+blocks.place(BEDROCK, pos(2, 2, 3))
+blocks.place(BEDROCK, pos(2, 2, 4))
+blocks.place(BEDROCK, pos(2, 2, 5))
+
+blocks.place(BEDROCK, pos(3, 2, 1))
+blocks.place(BEDROCK, pos(3, 2, 2))
+blocks.place(BEDROCK, pos(3, 2, 3))
+blocks.place(BEDROCK, pos(3, 2, 4))
+blocks.place(BEDROCK, pos(3, 2, 5))
+
+blocks.place(BEDROCK, pos(4, 2, 1))
+blocks.place(BEDROCK, pos(4, 2, 2))
+blocks.place(BEDROCK, pos(4, 2, 3))
+blocks.place(BEDROCK, pos(4, 2, 4))
+blocks.place(BEDROCK, pos(4, 2, 5))
+
+blocks.place(BEDROCK, pos(0, 3, 1))
+blocks.place(BEDROCK, pos(0, 3, 2))
+blocks.place(BEDROCK, pos(0, 3, 3))
+blocks.place(BEDROCK, pos(0, 3, 4))
+blocks.place(BEDROCK, pos(0, 3, 5))
+
+blocks.place(BEDROCK, pos(1, 3, 1))
+blocks.place(BEDROCK, pos(1, 3, 2))
+blocks.place(BEDROCK, pos(1, 3, 3))
+blocks.place(BEDROCK, pos(1, 3, 4))
+blocks.place(BEDROCK, pos(1, 3, 5))
+
+blocks.place(BEDROCK, pos(2, 3, 1))
+blocks.place(BEDROCK, pos(2, 3, 2))
+blocks.place(BEDROCK, pos(2, 3, 3))
+blocks.place(BEDROCK, pos(2, 3, 4))
+blocks.place(BEDROCK, pos(2, 3, 5))
+
+blocks.place(BEDROCK, pos(3, 3, 1))
+blocks.place(BEDROCK, pos(3, 3, 2))
+blocks.place(BEDROCK, pos(3, 3, 3))
+blocks.place(BEDROCK, pos(3, 3, 4))
+blocks.place(BEDROCK, pos(3, 3, 5))
+
+blocks.place(BEDROCK, pos(4, 3, 1))
+blocks.place(BEDROCK, pos(4, 3, 2))
+blocks.place(BEDROCK, pos(4, 3, 3))
+blocks.place(BEDROCK, pos(4, 3, 4))
+blocks.place(BEDROCK, pos(4, 3, 5))
+
+blocks.place(BEDROCK, pos(0, 4, 1))
+blocks.place(BEDROCK, pos(0, 4, 2))
+blocks.place(BEDROCK, pos(0, 4, 3))
+blocks.place(BEDROCK, pos(0, 4, 4))
+blocks.place(BEDROCK, pos(0, 4, 5))
+
+blocks.place(BEDROCK, pos(1, 4, 1))
+blocks.place(BEDROCK, pos(1, 4, 2))
+blocks.place(BEDROCK, pos(1, 4, 3))
+blocks.place(BEDROCK, pos(1, 4, 4))
+blocks.place(BEDROCK, pos(1, 4, 5))
+
+blocks.place(BEDROCK, pos(2, 4, 1))
+blocks.place(BEDROCK, pos(2, 4, 2))
+blocks.place(BEDROCK, pos(2, 4, 3))
+blocks.place(BEDROCK, pos(2, 4, 4))
+blocks.place(BEDROCK, pos(2, 4, 5))
+
+blocks.place(BEDROCK, pos(3, 4, 1))
+blocks.place(BEDROCK, pos(3, 4, 2))
+blocks.place(BEDROCK, pos(3, 4, 3))
+blocks.place(BEDROCK, pos(3, 4, 4))
+blocks.place(BEDROCK, pos(3, 4, 5))
+
+blocks.place(BEDROCK, pos(4, 4, 1))
+blocks.place(BEDROCK, pos(4, 4, 2))
+blocks.place(BEDROCK, pos(4, 4, 3))
+blocks.place(BEDROCK, pos(4, 4, 4))
+blocks.place(BEDROCK, pos(4, 4, 5))
+
+player.say ("Placing Stone");
+//what action  type     L/R U/D F/B
+blocks.place(BEDROCK, pos(0, 0, 1))
+blocks.place(BEDROCK, pos(0, 0, 2))
+blocks.place(BEDROCK, pos(0, 0, 3))
+blocks.place(BEDROCK, pos(0, 0, 4))
+blocks.place(BEDROCK, pos(0, 0, 5))
+
+blocks.place(BEDROCK, pos(1, 0, 1))
+blocks.place(BEDROCK, pos(1, 0, 2))
+blocks.place(BEDROCK, pos(1, 0, 3))
+blocks.place(BEDROCK, pos(1, 0, 4))
+blocks.place(BEDROCK, pos(1, 0, 5))
+
+blocks.place(BEDROCK, pos(2, 0, 1))
+blocks.place(BEDROCK, pos(2, 0, 2))
+blocks.place(BEDROCK, pos(2, 0, 3))
+blocks.place(BEDROCK, pos(2, 0, 4))
+blocks.place(BEDROCK, pos(2, 0, 5))
+
+blocks.place(BEDROCK, pos(3, 0, 1))
+blocks.place(BEDROCK, pos(3, 0, 2))
+blocks.place(BEDROCK, pos(3, 0, 3))
+blocks.place(BEDROCK, pos(3, 0, 4))
+blocks.place(BEDROCK, pos(3, 0, 5))
+
+blocks.place(BEDROCK, pos(4, 0, 1))
+blocks.place(BEDROCK, pos(4, 0, 2))
+blocks.place(BEDROCK, pos(4, 0, 3))
+blocks.place(BEDROCK, pos(4, 0, 4))
+blocks.place(BEDROCK, pos(4, 0, 5))
+
+blocks.place(BEDROCK, pos(0, 1, 1))
+blocks.place(BEDROCK, pos(0, 1, 2))
+blocks.place(BEDROCK, pos(0, 1, 3))
+blocks.place(BEDROCK, pos(0, 1, 4))
+blocks.place(BEDROCK, pos(0, 1, 5))
+
+blocks.place(BEDROCK, pos(1, 1, 1))
+blocks.place(BEDROCK, pos(1, 1, 5))
+
+blocks.place(BEDROCK, pos(2, 1, 1))
+blocks.place(BEDROCK, pos(2, 1, 5))
+
+blocks.place(BEDROCK, pos(3, 1, 1))
+blocks.place(BEDROCK, pos(3, 1, 5))
+
+blocks.place(BEDROCK, pos(4, 1, 1))
+blocks.place(BEDROCK, pos(4, 1, 2))
+blocks.place(BEDROCK, pos(4, 1, 3))
+blocks.place(BEDROCK, pos(4, 1, 4))
+blocks.place(BEDROCK, pos(4, 1, 5))
+
+blocks.place(BEDROCK, pos(0, 2, 1))
+blocks.place(BEDROCK, pos(0, 2, 2))
+blocks.place(BEDROCK, pos(0, 2, 3))
+blocks.place(BEDROCK, pos(0, 2, 4))
+blocks.place(BEDROCK, pos(0, 2, 5))
+
+blocks.place(BEDROCK, pos(1, 2, 1))
+blocks.place(BEDROCK, pos(1, 2, 5))
+
+blocks.place(BEDROCK, pos(2, 2, 1))
+blocks.place(BEDROCK, pos(2, 2, 5))
+
+blocks.place(BEDROCK, pos(3, 2, 1))
+blocks.place(BEDROCK, pos(3, 2, 5))
+
+blocks.place(BEDROCK, pos(4, 2, 1))
+blocks.place(BEDROCK, pos(4, 2, 2))
+blocks.place(BEDROCK, pos(4, 2, 3))
+blocks.place(BEDROCK, pos(4, 2, 4))
+blocks.place(BEDROCK, pos(4, 2, 5))
+
+blocks.place(BEDROCK, pos(0, 3, 1))
+blocks.place(BEDROCK, pos(0, 3, 2))
+blocks.place(BEDROCK, pos(0, 3, 3))
+blocks.place(BEDROCK, pos(0, 3, 4))
+blocks.place(BEDROCK, pos(0, 3, 5))
+
+blocks.place(BEDROCK, pos(1, 3, 1))
+blocks.place(BEDROCK, pos(1, 3, 5))
+
+blocks.place(BEDROCK, pos(2, 3, 1))
+blocks.place(BEDROCK, pos(2, 3, 5))
+
+blocks.place(BEDROCK, pos(3, 3, 1))
+blocks.place(BEDROCK, pos(3, 3, 5))
+
+blocks.place(BEDROCK, pos(4, 3, 1))
+blocks.place(BEDROCK, pos(4, 3, 2))
+blocks.place(BEDROCK, pos(4, 3, 3))
+blocks.place(BEDROCK, pos(4, 3, 4))
+blocks.place(BEDROCK, pos(4, 3, 5))
+
+blocks.place(BEDROCK, pos(0, 4, 1))
+blocks.place(BEDROCK, pos(0, 4, 2))
+blocks.place(BEDROCK, pos(0, 4, 3))
+blocks.place(BEDROCK, pos(0, 4, 4))
+blocks.place(BEDROCK, pos(0, 4, 5))
+
+blocks.place(BEDROCK, pos(1, 4, 1))
+blocks.place(BEDROCK, pos(1, 4, 2))
+blocks.place(BEDROCK, pos(1, 4, 3))
+blocks.place(BEDROCK, pos(1, 4, 4))
+blocks.place(BEDROCK, pos(1, 4, 5))
+
+blocks.place(BEDROCK, pos(2, 4, 1))
+blocks.place(BEDROCK, pos(2, 4, 2))
+blocks.place(BEDROCK, pos(2, 4, 3))
+blocks.place(BEDROCK, pos(2, 4, 4))
+blocks.place(BEDROCK, pos(2, 4, 5))
+
+blocks.place(BEDROCK, pos(3, 4, 1))
+blocks.place(BEDROCK, pos(3, 4, 2))
+blocks.place(BEDROCK, pos(3, 4, 3))
+blocks.place(BEDROCK, pos(3, 4, 4))
+blocks.place(BEDROCK, pos(3, 4, 5))
+
+blocks.place(BEDROCK, pos(4, 4, 1))
+blocks.place(BEDROCK, pos(4, 4, 2))
+blocks.place(BEDROCK, pos(4, 4, 3))
+blocks.place(BEDROCK, pos(4, 4, 4))
+blocks.place(BEDROCK, pos(4, 4, 5))
+
+player.say("Done Placing Stone")
+
+// z is in front of you
+// x is left and right
+// y is up and down
