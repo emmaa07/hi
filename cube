@@ -1,3 +1,14 @@
+player.onChat("build", function() {
+player.say("start placing stone");
+
+for (let z =1; z <6; z++){
+blocks.place(BEDROCK, pos(0,0,z));
+}
+player.say("done placing stone");
+	
+})
+
+//unfinished btw
 player.say ("Placing Stone");
 //what action  type     L/R U/D F/B
 blocks.place(BEDROCK, pos(0, 0, 1))
